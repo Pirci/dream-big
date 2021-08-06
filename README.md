@@ -1,8 +1,6 @@
-### Seytech Fullstack Software Developer Bootcamp
+### Dream Big Project
 
-> HTML & CSS #6th Practice Project (Dream Big).
-
-From [Fullstack Software Developer Bootcamp](https://www.seytech.co/)
+> HTML & CSS Dream Big Project
 
 ## Live Demo
 
